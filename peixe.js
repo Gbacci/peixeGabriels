@@ -3,7 +3,7 @@
 
 
 
-console.log("oaksdokasod");
+console.log("Muito bom, a melhor coisa que aprendi foi como colocar o hino do corinthians em página web.");
 var config = { 
     type: Phaser.AUTO,
     width: 800,
